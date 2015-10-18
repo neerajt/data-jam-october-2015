@@ -14,7 +14,7 @@ October [data jam](http://www.meetup.com/Houston-Data-Visualization-Meetup/event
   * [jQuery](http://api.jquery.com/jquery.getjson/)
     * To GET static JSON
   * [underscore.string](http://epeli.github.io/underscore.string/)
-    * Only to transfrom ALL CAPS subdivision labels to be Titlized
+    * Only to transform ALL CAPS subdivision labels to be Titleized
   * [Color Brewer](http://colorbrewer2.org/?type=qualitative&scheme=Paired&n=4)
 
 # Demo
